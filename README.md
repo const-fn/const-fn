@@ -5,6 +5,8 @@
  - also known under Chaoslos or Sherion
  - currently working on Helios 🥶
 
+ - learning c++ and rust
+
 ## Helios 
 
  - originally started as a custom minecraft client in 2020
