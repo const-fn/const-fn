@@ -5,7 +5,7 @@
  - also known under Chaoslos or Sherion
  - currently working on Helios 🥶
 
- - learning c++ and rust
+ - learning c++ and rust 🆒
 
 ## Helios 
 
