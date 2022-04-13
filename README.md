@@ -3,7 +3,7 @@
  - been working with java for around 5 years 🔥
  - worked on various minecraft mcp based clients
  - also known under Chaoslos or Sherion
- - currently working on Helios 🥶
+ - owner of Helios.pub
 
  - learning c++ and rust 🆒
 
