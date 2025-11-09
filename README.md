@@ -8,10 +8,8 @@
 ## <del>Helios</del> | Intellect
 
  - <del>originally started as a custom minecraft client in 2020</del>
- - now planned on becoming a whole injection based multi version minecraft mod
- - fully written in cpp and fully module based (easier porting to different games)
- - custom html/css renderer made extra for all the menus
-
+ - now planned on becoming a whole injection based multi app modding tool (including multiple versions of minecraft)
+ - fully written in cpp
 
 <!--
 **Soterik/Soterik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
